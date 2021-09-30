@@ -3,25 +3,21 @@ import random
 
 print ('Rock Paper Scissors Shoot!')
 weapon = (input('Choose your weapon: '))
-print (weapon)
 
 computer = ['rock', 'paper', 'scissors']
 computerchoice = random.choice(computer)
 
-#Computer choice
-print ('The computer chose: ' + computerchoice)
-
 if weapon == computerchoice:
-    print ('It is a draw!')
+    print ('It is a draw! The computer chose', computerchoice)
 elif weapon == 'rock' and computerchoice == 'paper':
-    print ('You lose')
+    print ('You lost. The computer chose', computerchoice)
 elif weapon == 'rock' and computerchoice == 'scissors':
-    print('You win!')
+    print('You win! The computer chose', computerchoice)
 elif weapon == 'paper' and computerchoice == 'rock':
-    print('You win')
+    print('You win! The computer chose', computerchoice)
 elif weapon == 'paper' and computerchoice == 'scissors':
-    print('You lose')
+    print('You lost. The computer chose', computerchoice)
 elif weapon == 'scissors' and computerchoice == 'rock':
-    print('You lose')
+    print('You lost. The computer chose', computerchoice)
 elif weapon == 'scissors' and computerchoice == 'paper':
-    print('You win!')
+    print('You win! The computer chose', computerchoice)
