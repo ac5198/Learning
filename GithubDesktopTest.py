@@ -1,1 +1,1 @@
-print("This is a test for Github Desktop")
+print("This is a test")
