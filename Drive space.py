@@ -1,10 +1,10 @@
 # Ask for drive size
 print ('What is the current drive size in GB?')
-current = (int(input()))
+current = (float(input()))
 
 # Ask for free space
 print ('How much free space is left on the drive in GB?')
-free = (int(input()))
+free = (float(input()))
 
 # Ask for amount free space wanted
 print ('What percent do you want free')
