@@ -1,6 +1,5 @@
 import random
 
-
 print ('Rock Paper Scissors Shoot!')
 weapon = (input('Choose your weapon: '))
 
