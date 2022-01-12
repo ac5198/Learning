@@ -7,9 +7,9 @@ used = (current - free)
 newpercent = (1 - convertpercent)
 newsize = (used / newpercent)
 
-print ('\nThe new drive size will need to be ', newsize, 'GB')
+print ('\nThe new drive size will need to be ', round(newsize), 'GB')
 
 add = (newsize - current)
-print ('You will need to add an additional ', add, 'GB')
+print ('You will need to add an additional ', round(add), 'GB')
 
-k=input("\npress enter to exit")
+k=input("\npress enter to exit")346.5
