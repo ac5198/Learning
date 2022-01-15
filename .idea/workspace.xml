@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbb04403-63ac-4fc4-9d80-b27f04f854fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
+    <list default="true" id="bbb04403-63ac-4fc4-9d80-b27f04f854fc" name="Changes" comment="Add example">
+      <change afterPath="$PROJECT_DIR$/regex groups.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Example.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GithubDesktopTest.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/TicTacToe.py" beforeDir="false" afterPath="$PROJECT_DIR$/TicTacToe.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User input 2.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
