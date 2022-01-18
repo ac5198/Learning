@@ -65,3 +65,24 @@ print(vowelRegex.findall("Robocop eats baby food."))
 consonatesRegex = re.compile(r'[^aeiou]')
 print(consonatesRegex.findall("Robocop eats baby food."))
 
+# starts with
+
+beginsWithHelloRegex = re.compile(r'^Hello')
+mo = beginsWithHelloRegex.search("Hello there!")
+print(mo.group())
+
+# ends with
+
+endsWithHelloRegex = re.compile(r'world!$')
+mo = endsWithHelloRegex.search("Hello world!")
+print(mo.group())
+
+allDigitesRegex = re.compile(r'^\d+$')
+mo = allDigitesRegex.search("01892507896")
+print(mo.group())
+
+# . stands for any character
+
+atRegex = re.compile(r'.at')
+mo = atRegex.search("The cat with the hat is fat")
+print(mo.group())
