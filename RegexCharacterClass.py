@@ -60,7 +60,7 @@ print(vowelRegex.findall("Robocop eats baby food."))
 vowelRegex = re.compile(r'[aeiou]{2}')
 print(vowelRegex.findall("Robocop eats baby food."))
 
-# opposite
+# ^ makes it opposite
 
 consonatesRegex = re.compile(r'[^aeiou]')
 print(consonatesRegex.findall("Robocop eats baby food."))

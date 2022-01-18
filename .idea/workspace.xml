@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbb04403-63ac-4fc4-9d80-b27f04f854fc" name="Changes" comment="Work on regex">
+      <change afterPath="$PROJECT_DIR$/RegexCharacterClass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegexCharacterClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/RegexCharacterClass.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -205,14 +205,7 @@
       <option name="project" value="LOCAL" />
       <updated>1642525091975</updated>
     </task>
-    <task id="LOCAL-00007" summary="Work on regex">
-      <created>1642533345751</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1642533345751</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
