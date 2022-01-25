@@ -64,4 +64,3 @@ print(vowelRegex.findall("Robocop eats baby food."))
 
 consonatesRegex = re.compile(r'[^aeiou]')
 print(consonatesRegex.findall("Robocop eats baby food."))
-
