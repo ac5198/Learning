@@ -1,4 +1,4 @@
-import re, pyperclip
+import re,pyperclip
 
 # Create a regex for phone numbers
 phoneRegex = re.compile(r'''
