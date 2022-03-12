@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bbb04403-63ac-4fc4-9d80-b27f04f854fc" name="Changes" comment="Work on regex">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_24_22,_6_10_AM_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2_24_22__6_10_AM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="bbb04403-63ac-4fc4-9d80-b27f04f854fc" name="Changes" comment="Files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Files.py" beforeDir="false" afterPath="$PROJECT_DIR$/Files.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Helloworld2.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +210,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642525091975</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Files">
+      <created>1647116748976</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647116748976</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Files">
+      <created>1647116952663</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1647116952663</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -230,6 +244,7 @@
     <MESSAGE value="Test 2" />
     <MESSAGE value="Add regex" />
     <MESSAGE value="Work on regex" />
-    <option name="LAST_COMMIT_MESSAGE" value="Work on regex" />
+    <MESSAGE value="Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files" />
   </component>
 </project>
