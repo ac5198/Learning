@@ -27,7 +27,19 @@ print(list(shelfFile.values()))
 #shutil.copy('/home/acoughlin/PycharmProjects/Learning/Helloworld2.txt', '/home/acoughlin/PycharmProjects/helloworldtest.txt')
 #shutil.move('/home/acoughlin/PycharmProjects/Learning/Helloworld2.txt', '/home/acoughlin/PycharmProjects')
 
-# Section 11 22 - Deleting FIles
+# Section 11 33 - Deleting Files
 
 os.unlink('/home/acoughlin/PycharmProjects/Learning/Helloworld2.txt')
+
+# Delete folder (most be 100% empty)
 os.rmdir('/home/acoughlin/PycharmProjects/testfolder')
+
+# Delete entire folder and everything in it
+import shutil
+shutil.rmtree('')
+
+# Send to recycling
+import send2trash
+send2trash.send2trash('')
+
+# Section 11 34 - Walking a Directory Tree
